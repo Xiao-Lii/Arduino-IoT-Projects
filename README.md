@@ -62,7 +62,7 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 
 ## Project #6: Verifying Thermistor Resistance with the Thermistor Voltage 
 <b>Project Goal:</b> After recording the thermistor's resistance from project 2, let's verify that these are accurate by utilizing the thermistor's voltage readings and utilizing an equation of where: 
-<div align ="center">Resistance = ((5.0 - VoltageIn)/VoltageIn) * Ohm of Resistor</div>
+<div align ="center">Resistance = ((5.0 - VoltageIn)/VoltageIn)) * Ohm of Resistor</div>
 
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
