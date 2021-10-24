@@ -98,6 +98,8 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 ## Project #9: LED Activation with Microphone
 <b>Project Goal:</b> On our breadboard we'll attach microphone sensor and when it's triggered by noise in both a silent and busy room with background noise, we'll want an LED attached to our breadboard to light up.
 
+https://user-images.githubusercontent.com/69813214/138616233-4219ceba-d9a8-434a-bf96-37855e75a831.mp4
+
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
@@ -122,6 +124,8 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 
 ## Project #11: Step Counter
 <b>Project Goal:</b> With our 3-axis accelerometer gyroscope sensor & 9V battery power source, we'll create a relatively-accurate step counter where each step is recorded based on our gyroscope sensor. This is to simulate a similar function that we see in many of our smart devices today. 
+
+https://user-images.githubusercontent.com/69813214/138616241-e0b94706-3d5c-4fa4-9aa4-f15f63261f53.mp4
 
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
