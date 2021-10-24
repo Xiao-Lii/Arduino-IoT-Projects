@@ -1,6 +1,10 @@
 # Internet Of Things(IoT) Project Outline
 
 A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpwires, thermoresistors, a breadboard, batteries, and various sensors to simulate hardware and software integration. Please refer to the outline below to see the hardware utilized and project goal/results. Your results may vary depending on your computer's hardware. 
+
+### Highlighted Projects:
+[Battery Powered Step Counter](https://github.com/Xiao-Lii/IoT-ArduinoUnoProjects#project-11-step-counter)
+
 #### To run the projects below you'll need:
   * Hardware components listed per project
   * Arduino's open-source IDE software (utilized v. 1.8.16)
@@ -123,7 +127,7 @@ https://user-images.githubusercontent.com/69813214/138616233-4219ceba-d9a8-434a-
   * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIEDX8)
 
 ## Project #11: Step Counter
-<b>Project Goal:</b> With our 3-axis accelerometer gyroscope sensor & 9V battery power source, we'll create a relatively-accurate step counter where each step is recorded based on our gyroscope sensor. This is to simulate a similar function that we see in many of our smart devices today. In the video below you can see that I test my step counter with small jumps and adjusting just the height to see if it'll count these changes as steps. 
+<b>Project Goal:</b> With our 3-axis accelerometer gyroscope sensor & 9V battery power source, we'll create a relatively-accurate step counter where each step is recorded based on our gyroscope sensor. This is to simulate a similar function that we see in many of our smart devices today. In the video below you can see that I test my step counter with small jumps and height adjustments to see if it'll count these changes as steps. 
 
 https://user-images.githubusercontent.com/69813214/138616241-e0b94706-3d5c-4fa4-9aa4-f15f63261f53.mp4
 
