@@ -96,7 +96,7 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 
 
 ## Project #9: LED Activation with Microphone
-<b>Project Goal:</b> On our breadboard we'll attach microphone sensor and when it's triggered by noise in both a silent and busy room with background noise, we'll want an LED attached to our breadboard to light up.
+<b>Project Goal:</b> On our breadboard we'll attach microphone sensor and when it's triggered by noise in both a silent and busy room with background noise, we'll want an LED attached to our breadboard to light up. In the video below, testing of the mic sensor is done in a silent environment and an environment simulating a busy cafe, to see if the mic will still catch the user's voice. 
 
 https://user-images.githubusercontent.com/69813214/138616233-4219ceba-d9a8-434a-bf96-37855e75a831.mp4
 
@@ -123,7 +123,7 @@ https://user-images.githubusercontent.com/69813214/138616233-4219ceba-d9a8-434a-
   * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIEDX8)
 
 ## Project #11: Step Counter
-<b>Project Goal:</b> With our 3-axis accelerometer gyroscope sensor & 9V battery power source, we'll create a relatively-accurate step counter where each step is recorded based on our gyroscope sensor. This is to simulate a similar function that we see in many of our smart devices today. 
+<b>Project Goal:</b> With our 3-axis accelerometer gyroscope sensor & 9V battery power source, we'll create a relatively-accurate step counter where each step is recorded based on our gyroscope sensor. This is to simulate a similar function that we see in many of our smart devices today. In the video below you can see that I test my step counter with small jumps and adjusting just the height to see if it'll count these changes as steps. 
 
 https://user-images.githubusercontent.com/69813214/138616241-e0b94706-3d5c-4fa4-9aa4-f15f63261f53.mp4
 
