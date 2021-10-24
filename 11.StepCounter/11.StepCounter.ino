@@ -5,7 +5,7 @@
 const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 const int MPU6050_addr = 0x68;
-int16_t AccX, AccY, AccZ, Temp, GyroX, GyroY, GyroZ, gps;
+int16_t gps;
 unsigned long runMillis;
 bool stepFlag;
 int steps = 0;
@@ -30,19 +30,6 @@ void loop() {
   Wire.write(0x3B);
   Wire.endTransmission(false);
   Wire.requestFrom(MPU6050_addr, 14, true);
-//  AccX = Wire.read() << 8 | Wire.read();
-//  AccY = Wire.read() << 8 | Wire.read();
-//  AccZ = Wire.read() << 8 | Wire.read();
-//  Temp = Wire.read() << 8 | Wire.read();
-//  GyroX = Wire.read() << 8 | Wire.read();
-//  GyroY = Wire.read() << 8 | Wire.read();
-//  GyroZ = Wire.read() << 8 | Wire.read();
-//  Serial.print("AccX = "); Serial.print(AccX);
-//  Serial.print(" || AccY = "); Serial.print(AccY);
-//  Serial.print(" || AccZ = "); Serial.print(AccZ);
-//  Serial.print(" || GyroX = "); Serial.print(GyroX);
-//  Serial.print(" || GyroY = "); Serial.print(GyroY);
-//  Serial.print(" || GyroZ = "); Serial.print(GyroZ);
   gps = (Wire.read() << 8 | Wire.read());
   if (gps < 1){
     stepFlag = true;
@@ -53,17 +40,4 @@ void loop() {
     lcd.print(steps);
   }
   delay(100);
-   
-//  Serial.println();
-//  if (Serial.available()){
-//    delay(100);
-//    lcd.clear();
-//    while(Serial.available() > 0){
-//      char inputchar = Serial.read();
-//      if (inputchar != '\n'){
-//        lcd.print(gps);
-//      }
-//    }
-//  }
-
 }
