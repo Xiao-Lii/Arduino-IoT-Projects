@@ -140,3 +140,4 @@ https://user-images.githubusercontent.com/69813214/138616241-e0b94706-3d5c-4fa4-
   * [3-Axis Accelerometer Gyroscope Module](https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B00LP25V1A)
   * [9V Rechargeable Battery](https://www.amazon.com/AmazonBasics-Rechargeable-Batteries-200mAh-4-Pack/dp/B07PHCSNZ2)
   * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIEDX8)
+  * [LCD Display](https://www.amazon.com/KNACRO-Backlight-Arduino-MEGA2560-letters/dp/B01ID8O574)
