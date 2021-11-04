@@ -15,7 +15,7 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
 
@@ -25,7 +25,7 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
 
@@ -35,7 +35,7 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
   * [Micro SD Card w/ Adapater](https://www.amazon.com/Micro-Center-Class-Memory-Adapter/dp/B08C2G1J9M)
@@ -47,7 +47,7 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
   * [Micro SD Card w/ Adapater](https://www.amazon.com/Micro-Center-Class-Memory-Adapter/dp/B08C2G1J9M)
@@ -59,7 +59,7 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
   * [Voltage Sensor](https://www.amazon.com/HiLetgo-Voltage-Detection-Arduino-Electronic/dp/B01HTC4XKY)
@@ -71,7 +71,7 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
   * [Voltage Sensor](https://www.amazon.com/HiLetgo-Voltage-Detection-Arduino-Electronic/dp/B01HTC4XKY)
@@ -83,7 +83,7 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [ACS712 Current Sensor](https://www.amazon.com/Electrical-Current-Sensor-Module-ACS712/dp/B01N010ZW6)
 
@@ -93,21 +93,19 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [Voltage Sensor](https://www.amazon.com/HiLetgo-Voltage-Detection-Arduino-Electronic/dp/B01HTC4XKY)
   * [ACS712 Current Sensor](https://www.amazon.com/Electrical-Current-Sensor-Module-ACS712/dp/B01N010ZW6)
 
 
 ## Project #9: LED Activation with Microphone
-<b>Project Goal:</b> On our breadboard we'll attach microphone sensor and when it's triggered by noise in both a silent and busy room with background noise, we'll want an LED attached to our breadboard to light up. In the video below, testing of the mic sensor is done in a silent environment and an environment simulating a busy cafe, to see if the mic will still catch the user's voice. 
-
-https://user-images.githubusercontent.com/69813214/138616233-4219ceba-d9a8-434a-bf96-37855e75a831.mp4
+<b>Project Goal:</b> On our breadboard we'll attach microphone sensor and when it's triggered by noise in both a silent and busy room with background noise, we'll want an LED attached to our breadboard to light up.
 
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [LED Light Emitting Diode](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH)
   * [Microphone Sensor](https://www.amazon.com/DAOKI-Sensitivity-Microphone-Detection-Arduino/dp/B00XT0PH10)
@@ -118,7 +116,7 @@ https://user-images.githubusercontent.com/69813214/138616233-4219ceba-d9a8-434a-
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [Micro SD Card w/ Adapater](https://www.amazon.com/Micro-Center-Class-Memory-Adapter/dp/B08C2G1J9M)
   * [Micro SD Card Reader](https://www.amazon.com/HiLetgo-Adater-Interface-Conversion-Arduino/dp/B07BJ2P6X6)
@@ -127,17 +125,30 @@ https://user-images.githubusercontent.com/69813214/138616233-4219ceba-d9a8-434a-
   * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIEDX8)
 
 ## Project #11: Step Counter
-<b>Project Goal:</b> With our 3-axis accelerometer gyroscope sensor & 9V battery power source, we'll create a relatively-accurate step counter where each step is recorded based on our gyroscope sensor. This is to simulate a similar function that we see in many of our smart devices today. In the video below you can see that I test my step counter with small jumps and height adjustments to see if it'll count these changes as steps. 
-
-https://user-images.githubusercontent.com/69813214/138616241-e0b94706-3d5c-4fa4-9aa4-f15f63261f53.mp4
+<b>Project Goal:</b> With our 3-axis accelerometer gyroscope sensor & 9V battery power source, we'll create a relatively-accurate step counter where each step is recorded based on our gyroscope sensor. This is to simulate a similar function that we see in many of our smart devices today. 
 
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
-  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8) (Note: Any resistor should do, but must be accounted for in the code's calculations) 
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
   * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
   * [3-Axis Accelerometer Gyroscope Module](https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B00LP25V1A)
   * [9V Rechargeable Battery](https://www.amazon.com/AmazonBasics-Rechargeable-Batteries-200mAh-4-Pack/dp/B07PHCSNZ2)
   * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIEDX8)
-  * [LCD Display](https://www.amazon.com/KNACRO-Backlight-Arduino-MEGA2560-letters/dp/B01ID8O574)
+
+
+## Project #12: RX vs. TX Synchronous LED Activation (Morse Code Usage)
+<b>Project Goal:</b> We'll have two LEDS on two different sides: an RX-side(receiver) and TX-side(battery-powered & button activated) and when the button is pressed on the TX-side, we'll see the LED activated on both the TX & RX sides. This is to simulate a user communicating in morse code through a light output(in our case, an LED).
+
+#### Hardware Utilized:
+  * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
+  * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
+  * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
+  * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
+  * [LED Light Emitting Diode](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH)
+  * [Voltage Sensor](https://www.amazon.com/HiLetgo-Voltage-Detection-Arduino-Electronic/dp/B01HTC4XKY)
+  * [9V Rechargeable Battery](https://www.amazon.com/AmazonBasics-Rechargeable-Batteries-200mAh-4-Pack/dp/B07PHCSNZ2)
+  * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIE)
+  * [Tactile Button Switch](https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY)
