@@ -102,6 +102,8 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 ## Project #9: LED Activation with Microphone
 <b>Project Goal:</b> On our breadboard we'll attach microphone sensor and when it's triggered by noise in both a silent and busy room with background noise, we'll want an LED attached to our breadboard to light up.
 
+https://user-images.githubusercontent.com/69813214/140673503-d88734bb-aa87-4d31-9eb3-e63c7d11a72b.mp4
+
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
@@ -127,6 +129,8 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
 ## Project #11: Step Counter
 <b>Project Goal:</b> With our 3-axis accelerometer gyroscope sensor & 9V battery power source, we'll create a relatively-accurate step counter where each step is recorded based on our gyroscope sensor. This is to simulate a similar function that we see in many of our smart devices today. 
 
+https://user-images.githubusercontent.com/69813214/140673527-6bfd8a13-344c-4512-9aec-81ffa6cdf3f1.mp4
+
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
@@ -137,9 +141,10 @@ A collection of Internet of Things(IoT) projects utilizing an arduino uno, jumpw
   * [9V Rechargeable Battery](https://www.amazon.com/AmazonBasics-Rechargeable-Batteries-200mAh-4-Pack/dp/B07PHCSNZ2)
   * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIEDX8)
 
-
 ## Project #12: RX vs. TX Synchronous LED Activation (Morse Code Usage)
 <b>Project Goal:</b> We'll have two LEDS on two different sides: an RX-side(receiver) and TX-side(battery-powered & button activated) and when the button is pressed on the TX-side, we'll see the LED activated on both the TX & RX sides. This is to simulate a user communicating in morse code through a light output(in our case, an LED).
+
+https://user-images.githubusercontent.com/69813214/140673538-6dee11e6-74b2-4255-b5b6-89da31486000.mp4
 
 #### Hardware Utilized:
   * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
