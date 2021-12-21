@@ -180,3 +180,6 @@ https://user-images.githubusercontent.com/69813214/140673538-6dee11e6-74b2-4255-
   * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIE)
   * [Micro SD Card w/ Adapater](https://www.amazon.com/Micro-Center-Class-Memory-Adapter/dp/B08C2G1J9M)
   * [Micro SD Card Reader](https://www.amazon.com/HiLetgo-Adater-Interface-Conversion-Arduino/dp/B07BJ2P6X6)
+
+## Project #15: Estimating a Battery's Age 
+<b>Project Goal:</b> Thank you to Professor Liang at UC Denver, who has provided his data of a 2400mAH battery's charge capacity, discharge capcacity, state of health(SoH), cycle number, voltage, current readings, and much more over the course of 6 months. To summarize, my report shows how the battery's state of health is calculated and how it's state of health and end voltage changes over the course of the battery's life cycle. We compare these two variables over time and note some possibilities contributing to the results we see over the battery's lifecycle. 
