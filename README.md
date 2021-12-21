@@ -136,13 +136,23 @@ https://user-images.githubusercontent.com/69813214/140673527-6bfd8a13-344c-4512-
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
   * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
-  * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
   * [3-Axis Accelerometer Gyroscope Module](https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B00LP25V1A)
   * [9V Rechargeable Battery](https://www.amazon.com/AmazonBasics-Rechargeable-Batteries-200mAh-4-Pack/dp/B07PHCSNZ2)
   * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIEDX8)
 
-## Project #12: RX vs. TX Synchronous LED Activation (Morse Code Usage)
-<b>Project Goal:</b> We'll have two LEDS on two different sides: an RX-side(receiver) and TX-side(battery-powered & button activated) and when the button is pressed on the TX-side, we'll see the LED activated on both the TX & RX sides. This is to simulate a user communicating in morse code through a light output(in our case, an LED).
+## Project #12: TX-Power to RX-LED 
+<b>Project Goal:</b> We'll have an LED on our RX-side(receiver) and when the incoming voltage > voltage threshold from the TX-side(voltage source), our LED will be powered on high - otherwise, if the incoming voltage < voltage threshold, our led will be powered on low which appears like it's off. 
+
+#### Hardware Utilized:
+  * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
+  * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
+  * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
+  * [LED Light Emitting Diode](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH)
+  * [Voltage Sensor](https://www.amazon.com/HiLetgo-Voltage-Detection-Arduino-Electronic/dp/B01HTC4XKY)
+
+## Project #13: RX vs. TX Synchronous LED Activation (Morse Code Usage)
+<b>Project Goal:</b> We'll have two LEDS on two different sides: an RX-side(receiver) and TX-side(battery-powered & button activated) and when the button is pressed on the TX-side, this will permit the current to pass through and we'll see the LED activated on both the TX & RX sides. This is to simulate a user communicating in morse code through a light output(in our case, an LED).
 
 https://user-images.githubusercontent.com/69813214/140673538-6dee11e6-74b2-4255-b5b6-89da31486000.mp4
 
@@ -151,9 +161,22 @@ https://user-images.githubusercontent.com/69813214/140673538-6dee11e6-74b2-4255-
   * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
   * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
   * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
-  * [Thermistor](https://www.amazon.com/uxcell-Thermistors-Resistors-Temperature-Sensors/dp/B07P5Q67RH)
   * [LED Light Emitting Diode](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH)
   * [Voltage Sensor](https://www.amazon.com/HiLetgo-Voltage-Detection-Arduino-Electronic/dp/B01HTC4XKY)
   * [9V Rechargeable Battery](https://www.amazon.com/AmazonBasics-Rechargeable-Batteries-200mAh-4-Pack/dp/B07PHCSNZ2)
   * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIE)
   * [Tactile Button Switch](https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY)
+
+## Project #14: Calculating a Battery's State of Change w/ Voltage Readings
+<b>Project Goal:</b> Utilizing a fully-charged 9V battery, we'll record the voltage coming in through the battery's full discharge cycle. Our calculations estimate that a 9V(600mAh) battery discharing at 10hz at 100Ohm should be completely discharged within 6.67 hours. The battery's discharge cycle readings will be recorded to an SD card which we can compare to the actual data. A summarize report detailing our calculations, predictions, and comparison to the actual data has been included as well. 
+
+#### Hardware Utilized:
+  * [Arduino Uno & USB Cable](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU)
+  * [Breadboard](https://www.amazon.com/Breadboard-Solderless-Breadboards-Distribution-Connecting/dp/B082VYKV6B)
+  * [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FHPJ5G8)
+  * [Jumpwires](https://www.amazon.com/QQQ-Breadboard-Multicolored-Arduino-Raspberry/dp/B0925KFP3F)
+  * [Voltage Sensor](https://www.amazon.com/HiLetgo-Voltage-Detection-Arduino-Electronic/dp/B01HTC4XKY)
+  * [9V Rechargeable Battery](https://www.amazon.com/AmazonBasics-Rechargeable-Batteries-200mAh-4-Pack/dp/B07PHCSNZ2)
+  * [9V Battery Clip w/ Male Plug for Arduino](https://www.amazon.com/5pack-Battery-2-1mm-Arduino-Corpco/dp/B01AXIE)
+  * [Micro SD Card w/ Adapater](https://www.amazon.com/Micro-Center-Class-Memory-Adapter/dp/B08C2G1J9M)
+  * [Micro SD Card Reader](https://www.amazon.com/HiLetgo-Adater-Interface-Conversion-Arduino/dp/B07BJ2P6X6)
